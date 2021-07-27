@@ -17,4 +17,5 @@ RUN apk add --no-cache \
       jq \
       nano \
       curl \
-      tar
+      tar \
+      docker
